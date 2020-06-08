@@ -1,0 +1,9 @@
+main: me.julian.gliding.Main
+name: JuliansGliding
+version: 1.0
+description: Allows you to glide indefinetly
+author: julian
+commands:
+  glide:
+    description: Forces you to glide
+    usage: /glide
